@@ -163,7 +163,7 @@ internal class TextGame
                 Console.WriteLine("You end the night safe in you apartment, with no aid from The Concierge... You have a slight recollection of your identity.");
                 Console.WriteLine("Your name is " + playerName + "You live in apartment 217");
                 Console.WriteLine("\n");
-                Console.WriteLine("Ending #6: Who Am I Again Again???");
+                Console.WriteLine("Ending #7: Who Am I Again Again???");
             }
         }
         else if (decision == "5")
@@ -175,7 +175,7 @@ internal class TextGame
             Console.WriteLine("You are now aimlessly wandering the neighbouring areas of the apartment complex...");
             Console.WriteLine("The locals are writing you off as a drunkie... \nYou actually find yourself in a drunken brawl, where you were separated by local law enforcement and taken into custody...");
             Console.WriteLine("\n");
-            Console.WriteLine("Ending #7: Drunken Fist");
+            Console.WriteLine("Ending #8: Drunken Fist");
         }
         else
         {
